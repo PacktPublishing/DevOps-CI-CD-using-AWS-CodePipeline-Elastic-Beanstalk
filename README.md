@@ -36,7 +36,3 @@ N/A
 * [DevOps Masterclass: CI/CD with Jenkins Pipelines Groovy DSL [Video]](https://www.packtpub.com/virtualization-and-cloud/devops-masterclass-cicd-jenkins-pipelines-groovy-dsl-video)
 
 * [DevOps: CI/CD with Jenkins pipelines, Maven, Gradle [Video]](https://www.packtpub.com/networking-and-servers/devops-cicd-jenkins-pipelines-maven-gradle-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788395564">https://packt.link/free-ebook/9781788395564 </a> </p>
